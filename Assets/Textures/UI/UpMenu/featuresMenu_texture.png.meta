@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: ecae2d1c83afd0645acb4bc0231b4896
+timeCreated: 1514493419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: featuresMenu_texture_0
+    21300002: featuresMenu_texture_1
+    21300004: featuresMenu_texture_2
+    21300006: featuresMenu_texture_3
+    21300008: featuresMenu_texture_4
+    21300010: featuresMenu_texture_5
+    21300012: featuresMenu_texture_6
+    21300014: featuresMenu_texture_7
+    21300016: featuresMenu_texture_8
+    21300018: featuresMenu_texture_9
+    21300020: featuresMenu_texture_10
+    21300022: featuresMenu_texture_11
+    21300024: featuresMenu_texture_12
+    21300026: featuresMenu_texture_13
+    21300028: featuresMenu_texture_14
+    21300030: featuresMenu_texture_15
+    21300032: featuresMenu_texture_16
+    21300034: featuresMenu_texture_17
+    21300036: featuresMenu_texture_18
+    21300038: featuresMenu_texture_19
+    21300040: featuresMenu_texture_20
+    21300042: featuresMenu_texture_21
+    21300044: featuresMenu_texture_22
+    21300046: featuresMenu_texture_23
+    21300048: featuresMenu_texture_24
+    21300050: featuresMenu_texture_25
+    21300052: featuresMenu_texture_26
+    21300054: featuresMenu_texture_27
+    21300056: featuresMenu_texture_28
+    21300058: featuresMenu_texture_29
+    21300060: featuresMenu_texture_30
+    21300062: featuresMenu_texture_31
+    21300064: featuresMenu_texture_32
+    21300066: featuresMenu_texture_33
+    21300068: featuresMenu_texture_34
+    21300070: featuresMenu_texture_35
+    21300072: featuresMenu_texture_36
+    21300074: featuresMenu_texture_37
+    21300076: featuresMenu_texture_38
+    21300078: featuresMenu_texture_39
+    21300080: featuresMenu_texture_40
+    21300082: featuresMenu_texture_41
+    21300084: featuresMenu_texture_42
+    21300086: featuresMenu_texture_43
+    21300088: featuresMenu_texture_44
+    21300090: featuresMenu_texture_45
+    21300092: featuresMenu_texture_46
+    21300094: featuresMenu_texture_47
+    21300096: featuresMenu_texture_48
+    21300098: featuresMenu_texture_49
+    21300100: featuresMenu_texture_50
+    21300102: featuresMenu_texture_51
+    21300104: featuresMenu_texture_52
+    21300106: featuresMenu_texture_53
+    21300108: featuresMenu_texture_54
+    21300110: featuresMenu_texture_55
+    21300112: featuresMenu_texture_56
+    21300114: featuresMenu_texture_57
+    21300116: featuresMenu_texture_58
+    21300118: featuresMenu_texture_59
+    21300120: featuresMenu_texture_60
+    21300122: featuresMenu_texture_61
+    21300124: featuresMenu_texture_62
+    21300126: featuresMenu_texture_63
+    21300128: featuresMenu_texture_64
+    21300130: featuresMenu_texture_65
+    21300132: featuresMenu_texture_66
+    21300134: featuresMenu_texture_67
+    21300136: featuresMenu_texture_68
+    21300138: featuresMenu_texture_69
+    21300140: featuresMenu_texture_70
+    21300142: featuresMenu_texture_71
+    21300144: featuresMenu_texture_72
+    21300146: featuresMenu_texture_73
+    21300148: featuresMenu_texture_74
+    21300150: featuresMenu_texture_75
+    21300152: featuresMenu_texture_76
+    21300154: featuresMenu_texture_77
+    21300156: featuresMenu_texture_78
+    21300158: featuresMenu_texture_79
+    21300160: featuresMenu_texture_80
+    21300162: featuresMenu_texture_81
+    21300164: featuresMenu_texture_82
+    21300166: featuresMenu_texture_83
+    21300168: featuresMenu_texture_84
+    21300170: featuresMenu_texture_85
+    21300172: featuresMenu_texture_86
+    21300174: featuresMenu_texture_87
+    21300176: featuresMenu_texture_88
+    21300178: featuresMenu_texture_89
+    21300180: featuresMenu_texture_90
+    21300182: featuresMenu_texture_91
+    21300184: featuresMenu_texture_92
+    21300186: featuresMenu_texture_93
+    21300188: featuresMenu_texture_94
+    21300190: featuresMenu_texture_95
+    21300192: featuresMenu_texture_96
+    21300194: featuresMenu_texture_97
+    21300196: featuresMenu_texture_98
+    21300198: featuresMenu_texture_99
+    21300200: featuresMenu_texture_100
+    21300202: featuresMenu_texture_101
+    21300204: featuresMenu_texture_102
+    21300206: featuresMenu_texture_103
+    21300208: featuresMenu_texture_104
+    21300210: featuresMenu_texture_105
+    21300212: featuresMenu_texture_106
+    21300214: featuresMenu_texture_107
+    21300216: featuresMenu_texture_108
+    21300218: featuresMenu_texture_109
+    21300220: featuresMenu_texture_110
+    21300222: featuresMenu_texture_111
+    21300224: featuresMenu_texture_112
+    21300226: featuresMenu_texture_113
+    21300228: featuresMenu_texture_114
+    21300230: featuresMenu_texture_115
+    21300232: featuresMenu_texture_116
+    21300234: featuresMenu_texture_117
+    21300236: featuresMenu_texture_118
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: featuresMenu_texture_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 480
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 480
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 480
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 479
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 482
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 483
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 480
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 442
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 443
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 443
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 440
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 440
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 444
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 443
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 444
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 442
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 406
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 404
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 404
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 403
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 405
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 403
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 407
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 404
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 368
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 364
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 366
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 367
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 365
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 368
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 364
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 367
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 328
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 328
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 328
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 329
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 327
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 330
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 330
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 327
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 328
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 290
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 288
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 290
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 288
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 292
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 292
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 290
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 290
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 252
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 252
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_60
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 251
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 255
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_62
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 255
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 252
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 252
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 214
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 214
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 215
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 213
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 216
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 215
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 214
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 176
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 176
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 177
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 178
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 176
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_84
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 142
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 140
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 139
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 139
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 137
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 139
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 138
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 102
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_99
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 103
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 100
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 62
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_104
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 63
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 60
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 64
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_109
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 63
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 24
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 24
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_113
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 23
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_115
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 23
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_116
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 26
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_117
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: featuresMenu_texture_118
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 26
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

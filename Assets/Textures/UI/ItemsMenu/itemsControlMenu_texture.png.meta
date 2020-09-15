@@ -1,0 +1,2592 @@
+fileFormatVersion: 2
+guid: 44ba1ece8692c9f47a5ce7783ec95be0
+timeCreated: 1514536880
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: itemsControlMenu_texture_0
+    21300002: itemsControlMenu_texture_1
+    21300004: itemsControlMenu_texture_2
+    21300006: itemsControlMenu_texture_3
+    21300008: itemsControlMenu_texture_4
+    21300010: itemsControlMenu_texture_5
+    21300012: itemsControlMenu_texture_6
+    21300014: itemsControlMenu_texture_7
+    21300016: itemsControlMenu_texture_8
+    21300018: itemsControlMenu_texture_9
+    21300020: itemsControlMenu_texture_10
+    21300022: itemsControlMenu_texture_11
+    21300024: itemsControlMenu_texture_12
+    21300026: itemsControlMenu_texture_13
+    21300028: itemsControlMenu_texture_14
+    21300030: itemsControlMenu_texture_15
+    21300032: itemsControlMenu_texture_16
+    21300034: itemsControlMenu_texture_17
+    21300036: itemsControlMenu_texture_18
+    21300038: itemsControlMenu_texture_19
+    21300040: itemsControlMenu_texture_20
+    21300042: itemsControlMenu_texture_21
+    21300044: itemsControlMenu_texture_22
+    21300046: itemsControlMenu_texture_23
+    21300048: itemsControlMenu_texture_24
+    21300050: itemsControlMenu_texture_25
+    21300052: itemsControlMenu_texture_26
+    21300054: itemsControlMenu_texture_27
+    21300056: itemsControlMenu_texture_28
+    21300058: itemsControlMenu_texture_29
+    21300060: itemsControlMenu_texture_30
+    21300062: itemsControlMenu_texture_31
+    21300064: itemsControlMenu_texture_32
+    21300066: itemsControlMenu_texture_33
+    21300068: itemsControlMenu_texture_34
+    21300070: itemsControlMenu_texture_35
+    21300072: itemsControlMenu_texture_36
+    21300074: itemsControlMenu_texture_37
+    21300076: itemsControlMenu_texture_38
+    21300078: itemsControlMenu_texture_39
+    21300080: itemsControlMenu_texture_40
+    21300082: itemsControlMenu_texture_41
+    21300084: itemsControlMenu_texture_42
+    21300086: itemsControlMenu_texture_43
+    21300088: itemsControlMenu_texture_44
+    21300090: itemsControlMenu_texture_45
+    21300092: itemsControlMenu_texture_46
+    21300094: itemsControlMenu_texture_47
+    21300096: itemsControlMenu_texture_48
+    21300098: itemsControlMenu_texture_49
+    21300100: itemsControlMenu_texture_50
+    21300102: itemsControlMenu_texture_51
+    21300104: itemsControlMenu_texture_52
+    21300106: itemsControlMenu_texture_53
+    21300108: itemsControlMenu_texture_54
+    21300110: itemsControlMenu_texture_55
+    21300112: itemsControlMenu_texture_56
+    21300114: itemsControlMenu_texture_57
+    21300116: itemsControlMenu_texture_58
+    21300118: itemsControlMenu_texture_59
+    21300120: itemsControlMenu_texture_60
+    21300122: itemsControlMenu_texture_61
+    21300124: itemsControlMenu_texture_62
+    21300126: itemsControlMenu_texture_63
+    21300128: itemsControlMenu_texture_64
+    21300130: itemsControlMenu_texture_65
+    21300132: itemsControlMenu_texture_66
+    21300134: itemsControlMenu_texture_67
+    21300136: itemsControlMenu_texture_68
+    21300138: itemsControlMenu_texture_69
+    21300140: itemsControlMenu_texture_70
+    21300142: itemsControlMenu_texture_71
+    21300144: itemsControlMenu_texture_72
+    21300146: itemsControlMenu_texture_73
+    21300148: itemsControlMenu_texture_74
+    21300150: itemsControlMenu_texture_75
+    21300152: itemsControlMenu_texture_76
+    21300154: itemsControlMenu_texture_77
+    21300156: itemsControlMenu_texture_78
+    21300158: itemsControlMenu_texture_79
+    21300160: itemsControlMenu_texture_80
+    21300162: itemsControlMenu_texture_81
+    21300164: itemsControlMenu_texture_82
+    21300166: itemsControlMenu_texture_83
+    21300168: itemsControlMenu_texture_84
+    21300170: itemsControlMenu_texture_85
+    21300172: itemsControlMenu_texture_86
+    21300174: itemsControlMenu_texture_87
+    21300176: itemsControlMenu_texture_88
+    21300178: itemsControlMenu_texture_89
+    21300180: itemsControlMenu_texture_90
+    21300182: itemsControlMenu_texture_91
+    21300184: itemsControlMenu_texture_92
+    21300186: itemsControlMenu_texture_93
+    21300188: itemsControlMenu_texture_94
+    21300190: itemsControlMenu_texture_95
+    21300192: itemsControlMenu_texture_96
+    21300194: itemsControlMenu_texture_97
+    21300196: itemsControlMenu_texture_98
+    21300198: itemsControlMenu_texture_99
+    21300200: itemsControlMenu_texture_100
+    21300202: itemsControlMenu_texture_101
+    21300204: itemsControlMenu_texture_102
+    21300206: itemsControlMenu_texture_103
+    21300208: itemsControlMenu_texture_104
+    21300210: itemsControlMenu_texture_105
+    21300212: itemsControlMenu_texture_106
+    21300214: itemsControlMenu_texture_107
+    21300216: itemsControlMenu_texture_108
+    21300218: itemsControlMenu_texture_109
+    21300220: itemsControlMenu_texture_110
+    21300222: itemsControlMenu_texture_111
+    21300224: itemsControlMenu_texture_112
+    21300226: itemsControlMenu_texture_113
+    21300228: itemsControlMenu_texture_114
+    21300230: itemsControlMenu_texture_115
+    21300232: itemsControlMenu_texture_116
+    21300234: itemsControlMenu_texture_117
+    21300236: itemsControlMenu_texture_118
+    21300238: itemsControlMenu_texture_119
+    21300240: itemsControlMenu_texture_120
+    21300242: itemsControlMenu_texture_121
+    21300244: itemsControlMenu_texture_122
+    21300246: itemsControlMenu_texture_123
+    21300248: itemsControlMenu_texture_124
+    21300250: itemsControlMenu_texture_125
+    21300252: itemsControlMenu_texture_126
+    21300254: itemsControlMenu_texture_127
+    21300256: itemsControlMenu_texture_128
+    21300258: itemsControlMenu_texture_129
+    21300260: itemsControlMenu_texture_130
+    21300262: itemsControlMenu_texture_131
+    21300264: itemsControlMenu_texture_132
+    21300266: itemsControlMenu_texture_133
+    21300268: itemsControlMenu_texture_134
+    21300270: itemsControlMenu_texture_135
+    21300272: itemsControlMenu_texture_136
+    21300274: itemsControlMenu_texture_137
+    21300276: itemsControlMenu_texture_138
+    21300278: itemsControlMenu_texture_139
+    21300280: itemsControlMenu_texture_140
+    21300282: itemsControlMenu_texture_141
+    21300284: itemsControlMenu_texture_142
+    21300286: itemsControlMenu_texture_143
+    21300288: itemsControlMenu_texture_144
+    21300290: itemsControlMenu_texture_145
+    21300292: itemsControlMenu_texture_146
+    21300294: itemsControlMenu_texture_147
+    21300296: itemsControlMenu_texture_148
+    21300298: itemsControlMenu_texture_149
+    21300300: itemsControlMenu_texture_150
+    21300302: itemsControlMenu_texture_151
+    21300304: itemsControlMenu_texture_152
+    21300306: itemsControlMenu_texture_153
+    21300308: itemsControlMenu_texture_154
+    21300310: itemsControlMenu_texture_155
+    21300312: itemsControlMenu_texture_156
+    21300314: itemsControlMenu_texture_157
+    21300316: itemsControlMenu_texture_158
+    21300318: itemsControlMenu_texture_159
+    21300320: itemsControlMenu_texture_160
+    21300322: itemsControlMenu_texture_161
+    21300324: itemsControlMenu_texture_162
+    21300326: itemsControlMenu_texture_163
+    21300328: itemsControlMenu_texture_164
+    21300330: itemsControlMenu_texture_165
+    21300332: itemsControlMenu_texture_166
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 983
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 984
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 985
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 987
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 983
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 983
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 986
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 944
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 942
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 944
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 945
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 942
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 943
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 944
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 944
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 902
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 904
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 902
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 902
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 904
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 903
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 866
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 866
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 865
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 862
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 824
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 824
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 821
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 823
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 822
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 822
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 821
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 821
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 828
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_58
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 828
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 828
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 827
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 788
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 787
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 788
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 790
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_65
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 784
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_66
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 786
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 783
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 784
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 786
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_70
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 784
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 783
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 783
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 784
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 744
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 745
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 745
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 745
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 746
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 746
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 746
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_82
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 746
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 748
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_84
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 750
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_85
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 749
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_86
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 749
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_87
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 710
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_88
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 712
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_89
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 712
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 712
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 710
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_92
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 708
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 709
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 710
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 708
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_96
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 711
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 709
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_98
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 710
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 709
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_101
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 671
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_102
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 670
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_103
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 667
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_104
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 672
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 675
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 670
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_107
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 673
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_108
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 670
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_109
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 675
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_110
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 672
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_111
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 679
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_112
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 675
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_113
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 633
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_114
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 635
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_115
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 637
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 636
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_117
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 632
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 632
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 631
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 631
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_121
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 628
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_122
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 637
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_123
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 633
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_124
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 635
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 594
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 595
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_128
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 594
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_129
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 595
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_130
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 594
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_131
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 595
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_132
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 594
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_133
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 595
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_134
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 596
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_135
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 597
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_136
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 597
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_137
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 600
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_138
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 598
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_139
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 559
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_140
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 560
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_141
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 561
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_142
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 560
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_143
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 559
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_144
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 556
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_145
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 557
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 557
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_147
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 556
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_148
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 556
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_149
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 557
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_150
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 556
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 556
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_152
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 518
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_153
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 519
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_154
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 518
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_155
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 520
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_156
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 519
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_158
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 519
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_159
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 519
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_160
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 520
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_161
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 521
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_162
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 523
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_163
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 521
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_164
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 522
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_165
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 486
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itemsControlMenu_texture_166
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 486
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
